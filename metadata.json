@@ -1,0 +1,6 @@
+{
+  "name": "مزاد الأنمي - Anime Auction",
+  "description": "لعبة مزادات وتحديات كروت الأنمي الأسطورية: المزاد المباشر، الشخصية الخفية، باكات الأنمي، وتحديات الذكاء الاصطناعي والمواجهات الثنائية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
